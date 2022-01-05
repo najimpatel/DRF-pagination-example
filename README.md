@@ -9,7 +9,7 @@ Clone the repo and cd into repo
 
 Create a virtual environment: python -m venv page
 
-Go into your virtual environment: source venv/bin/activate
+Go into your virtual environment: page\scripts\activate
 
 Install dependencies: pip install -r requirements.txt
 
